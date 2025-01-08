@@ -4,7 +4,7 @@
 </head>
 <body>
     <header>
-        <img src="https://thumbs.dreamstime.com/b/student-avatar-illustration-user-profile-icon-youth-avatar-student-avatar-illustration-simple-cartoon-user-portrait-user-profile-276189214.jpg">
+        <img src="https://thumbs.dreamstime.com/b/student-avatar-illustration-user-profile-icon-youth-avatar-student-avatar-illustration-simple-cartoon-user-portrait-user-profile-276189214.jpg" width="100px" height="100px">
         <h3>VENKATESH VEERAMALLU</h3>
         <p id="details">WebDevloper|designer|Tech</p>
     </header>
